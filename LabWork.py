@@ -410,7 +410,7 @@ while True:
 
 
 
-    #Sub topic logic
+    #Subtopic logic
     if topic_history[-1] in topics_dictionary[current_topic]:
       if current_topic == 'математика':
           # ---------Quadratic Equation ----------------
